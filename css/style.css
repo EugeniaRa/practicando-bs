@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item { 
+    text-align: right;
+    background-color: bisque;
+}
+
+.container-fluid{
+    background-color: bisque;
+}
+
+.btn {
+    background-color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+#carouselExampleCaptions {
+    width:30rem;
+}
+
+
